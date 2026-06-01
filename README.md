@@ -30,4 +30,4 @@ The dataset contains grocery sales transaction details.
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="1263" height="736" alt="Screenshot 2026-04-25 122132" src="https://github.com/user-attachments/assets/97d37167-9f88-460d-9f38-b00e66e40072" />
